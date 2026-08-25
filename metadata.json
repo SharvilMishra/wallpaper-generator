@@ -1,0 +1,6 @@
+{
+  "name": "VibePaper",
+  "description": "Mobile-first AI phone wallpaper generator producing 4 aesthetic 9:16 variations from vibe prompts with full-screen preview, lock screen simulator, remixing, and resolution controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
